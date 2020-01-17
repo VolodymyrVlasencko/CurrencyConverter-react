@@ -1,11 +1,12 @@
 # CurrencyConverter-react
-
-### `npm run build`
-
+```
+npm install
+```
 Run to build:
-
-### `npm run build`
-
+```
+npm run build
+```
 Run to try it by yourself
-
-### `npm run dev`
+```
+npm run dev
+```
